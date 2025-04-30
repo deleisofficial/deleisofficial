@@ -4,7 +4,6 @@ Hello! Chimunda Ayodele Solomon
 
 |Data Analyst| 3d designer| 
 
-[![LinkedIn](YOUR_LINKEDIN_LOGO_URL)](YOUR_LINKEDIN_PROFILE_URL) [![YouTube](YOUR_YOUTUBE_LOGO_URL)](YOUR_YOUTUBE_CHANNEL_URL) [![Gmail](YOUR_GMAIL_LOGO_URL)](mailto:YOUR_EMAIL_ADDRESS)
 **Mission** 🎯
 Empower individuals and organisations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
