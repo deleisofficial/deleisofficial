@@ -1,13 +1,13 @@
-#**Hello! Chimunda Ayodele Solomon**
+# **Hello! Chimunda Ayodele Solomon**
 
 |Data Analyst| 3d designer| 
 ***
 
-**Mission** 🎯
+## **Mission** 🎯
 ***
 Empower individuals and organisations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
-**About Me** 👩‍💻
+## **About Me** 👩‍💻
 ***
 I’m a data-driven educator, researcher, and analyst passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
 
@@ -15,7 +15,7 @@ Over the years, I’ve contributed to projects that span mathematical modelling,
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
-**Skills** 🛠️
+## **Skills** 🛠️
 ***
 **Data Analytics & Visualization:**
 
@@ -25,13 +25,13 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * Python (for Data Analysis)
 
   
-**Web & Productivity Tools:**
+## **Web & Productivity Tools:**
 ***
 * Microsoft Office Suite
 * Canva
 * Google Workspace
 
-**Soft Skills:**
+## **Soft Skills:**
 ***
 * Communication & Public Speaking
 * Teaching & Mentorship
@@ -46,14 +46,14 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * Empathy & Emotional Intelligence
 
   
-**Data Analytics Projects** 📚
+## **Data Analytics Projects** 📚
 ***
 * [SQL Projects](YOUR_SQL_PROJECTS_GITHUB_URL): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
 * [Power BI Projects](YOUR_POWER_BI_PROJECTS_GITHUB_URL): This repository hosts all projects completed in Power BI.
 * [Excel Projects](YOUR_EXCEL_PROJECTS_GITHUB_URL): In this repository, you will find all projects completed in Microsoft Excel.
 
   
-**Professional Goals** 🎯
+## **Professional Goals** 🎯
 ***
 * Using data analytics to solve real-world problems and supporting strategic decision-making in education, research, and business.
 * Empowering underrepresented communities through mentorship, training programs, and inclusive data-driven solutions.
@@ -61,7 +61,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * Leveraging my technical skills, leadership, and teamwork to facilitate decision-making for impactful solutions.
 
   
-**My Services** ✅
+## **My Services** ✅
 ***
 * **Data Analysis:** Offers data analytics services such as data entry, data cleaning, analysis, visualisation, and reporting to turn complex data into actionable insights.
 * **Dashboard Development:** Use data to design interactive dashboards to communicate insights.
@@ -71,7 +71,8 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * **Website Development:** I provide a range of solutions to strengthen your brand identity by developing your website for market visibility.
 
   
-**Connect with Me** 📫
+## **Connect with Me** 📫
+***
 🔗 [LinkedIn](https://www.linkedin.com/in/ayodele-chimunda/)
 📧 [Email](chimundadele@gmail.com)
 🔍 [Twitter](https://x.com/Deleisofficial)
