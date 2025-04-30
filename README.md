@@ -1,10 +1,10 @@
-Hello! Chimunda Ayodele Solomon
-
-***
+#**Hello! Chimunda Ayodele Solomon**
 
 |Data Analyst| 3d designer| 
+***
 
 **Mission** 🎯
+***
 Empower individuals and organisations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
 **About Me** 👩‍💻
