@@ -63,8 +63,8 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
   
 ## **Connect with Me** 📫
-🔗 [LinkedIn](https://www.linkedin.com/in/ayodele-chimunda/)
-📧 [Email](chimundadele@gmail.com)
-🔍 [Twitter](https://x.com/Deleisofficial)
+🔗 [LinkedIn](https://www.linkedin.com/in/ayodele-chimunda/) <br />
+📧 [Email](chimundadele@gmail.com) <br />
+🔍 [Twitter](https://x.com/Deleisofficial) <br />
 
 I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect! 🌍
