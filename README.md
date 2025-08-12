@@ -41,9 +41,9 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
   
 ## **Data Analytics Projects** 📚
-* [SQL Projects](YOUR_SQL_PROJECTS_GITHUB_URL): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
-* [Power BI Projects](YOUR_POWER_BI_PROJECTS_GITHUB_URL): This repository hosts all projects completed in Power BI.
-* [Excel Projects](YOUR_EXCEL_PROJECTS_GITHUB_URL): In this repository, you will find all projects completed in Microsoft Excel.
+* [SQL Projects](https://github.com/deleisofficial/sql_files): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
+* [Power BI Projects](https://github.com/deleisofficial/bi_with_dele): This repository hosts all projects completed in Power BI.
+* [Excel Projects](https://github.com/deleisofficial/dateswithdele): In this repository, you will find all projects completed in Microsoft Excel.
 
   
 ## **Professional Goals** 🎯
@@ -58,8 +58,6 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * **Dashboard Development:** Use data to design interactive dashboards to communicate insights.
 * **Training and Mentoring:** Training in Excel, Power BI, and SQL. Dedicated to helping others through mentoring, providing educational resources, guidance, and support.
 * **Academic Research:** Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
-* **GitHub Profile Optimisation:** I help you optimise your GitHub profile and teach you how to host your projects on GitHub repositories.
-* **Website Development:** I provide a range of solutions to strengthen your brand identity by developing your website for market visibility.
 
   
 ## **Connect with Me** 📫
